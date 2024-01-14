@@ -15,7 +15,6 @@
 | [[Unity 2D] 가위바위보(RPS) Defence Game](https://github.com/LHuHyeon/Unity2D_RPS_Defence_Game) | 2023.09.09 ~ 2023.11.20 |
 | [[Unity 3D] RPG Game Portfolio](https://github.com/LHuHyeon/Unity3D_RPG_Portfolio) | 2023.05.10 ~ 2023.08.18 |
 | [[Unity 2D] TokkiPangPang Game](https://github.com/LHuHyeon/TokkiPangPang_Game) | 2023.06.13 ~ 2023.06.15 |
-| [[Unity 3D] 액션 RPG Game *(중단)*](https://github.com/LHuHyeon/Action_RPG_Game) | 2022.10.19 ~ 2023.02.17 |
 | [[Unity 3D] Security Escape Game](https://github.com/LHuHyeon/Security_Escape_Game) | 2022.03.02 ~ 2022.06.10 |
 
 
