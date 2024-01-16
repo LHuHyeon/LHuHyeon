@@ -10,12 +10,12 @@
 + Email   :   minfkffn@gmail.com
 
 ## 3. 💻 Toy Project
-| 프로젝트 제목 | 개발 기간 |
-|:---|:---:|
-| [[Unity 2D] 가위바위보(RPS) Defence Game](https://github.com/LHuHyeon/Unity2D_RPS_Defence_Game) | 2023.09.09 ~ 2023.11.20 |
-| [[Unity 3D] RPG Game Portfolio](https://github.com/LHuHyeon/Unity3D_RPG_Portfolio) | 2023.05.10 ~ 2023.08.18 |
-| [[Unity 2D] TokkiPangPang Game](https://github.com/LHuHyeon/TokkiPangPang_Game) | 2023.06.13 ~ 2023.06.15 |
-| [[Unity 3D] Security Escape Game](https://github.com/LHuHyeon/Security_Escape_Game) | 2022.03.02 ~ 2022.06.10 |
+|  | 프로젝트 제목 | 개발 기간 |
+|:---:|:---|:---:|
+| ⭐ | [[Unity 2D] 가위바위보(RPS) Defence Game](https://github.com/LHuHyeon/Unity2D_RPS_Defence_Game) | 2023.09.09 ~ 2023.11.20 |
+| ⭐ | [[Unity 3D] RPG Game Portfolio](https://github.com/LHuHyeon/Unity3D_RPG_Portfolio) | 2023.05.10 ~ 2023.08.18 |
+|  | [[Unity 2D] TokkiPangPang Game](https://github.com/LHuHyeon/TokkiPangPang_Game) | 2023.06.13 ~ 2023.06.15 |
+|  | [[Unity 3D] Security Escape Game](https://github.com/LHuHyeon/Security_Escape_Game) | 2022.03.02 ~ 2022.06.10 |
 
 
 ## 4. 📚 Tutorial
